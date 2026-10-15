@@ -1,0 +1,21 @@
+.nav {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+    width: 100vw;
+    height: 7rem;
+    background-color: black;
+}
+
+.link {
+    color: rgb(254, 251, 244);
+    text-decoration: none;
+    padding: 2rem;
+    font-size: 1.8rem;
+}
+
+.active {
+    color: rgb(246, 149, 46);
+}
